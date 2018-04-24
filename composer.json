@@ -1,8 +1,8 @@
 {
-  "name": "thelar/bbc-reports",
+  "name": "thelar/bbc-awards",
   "description": "",
   "keywords": ["wordpress", "plugin"],
-  "homepage": "https://github.com/thelar/bbc-reports",
+  "homepage": "https://github.com/thelar/bbc-awards",
   "license": "MIT",
   "authors": [
     {
